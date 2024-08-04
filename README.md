@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
