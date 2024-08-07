@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
