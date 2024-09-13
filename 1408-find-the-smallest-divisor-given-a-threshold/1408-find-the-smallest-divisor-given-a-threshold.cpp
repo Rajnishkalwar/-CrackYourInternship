@@ -1,19 +1,23 @@
 class Solution {
 public:
-int calculateDivisor(vector<int>& nums, int threshold,int divisor){
+bool calculateDivisor(vector<int>& nums, int threshold,int divisor){
     int res=0;
     int n=nums.size();
     for(int i=0;i<n;i++){
         res+=ceil((double)(nums[i])/(double)(divisor));    
     }
-    return res<=threshold;
+    if (res<=threshold){
+        return true;
+    }
+    else{
+        return false;
+    }
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int mini=INT_MAX;
         int maxi=INT_MIN;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            mini=min(nums[i],mini);
             maxi=max(nums[i],maxi);
         }
         int low=1;
