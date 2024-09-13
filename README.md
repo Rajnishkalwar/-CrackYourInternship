@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
