@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool calculateCapacity(vector<int>& weights, int days,int capacity){
+    int calculateCapacity(vector<int>& weights, int days,int capacity){
         int cnt=1;
         int n=weights.size();
         int load=0;
@@ -8,16 +8,16 @@ public:
         for(int i=0;i<n;i++){
             if(load +weights[i]>capacity){
                 cnt++;
-                load=0;
-            }   
-            load+=weights[i];
-            if(cnt>days){
-                return false;
-            }
-
-            
+                load=weights[i];
+            }  
+            else{
+                load+=weights[i];
+            } 
         }
-        return true;
+        // if(load){
+        //     cnt++;
+        // }
+        return cnt<=days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
         int sum=0;
@@ -34,13 +34,13 @@ public:
             int mid=(low+high)/2;
             
             if(calculateCapacity(weights,days,mid)){
-              
+                ans=mid;
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
