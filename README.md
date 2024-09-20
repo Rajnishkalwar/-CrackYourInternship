@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
