@@ -40,13 +40,13 @@ int ready(vector<int>& bloomDay, int m, int k,int day){
         while(low<=high){
             int mid=(low+high)/2;
             if(ready(bloomDay,m,k,mid)){
-                ans=mid;
+               
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
     }   
 };
