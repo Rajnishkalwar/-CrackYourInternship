@@ -17,13 +17,13 @@ public:
             nodes++;
             current=current->next;
         }
-        ListNode* first=head;
+        current=head;
         int middleNode=(nodes/2)+1;
         while(middleNode>1){
-             first=first->next;
+             current=current->next;
              middleNode--;
 
         }
-        return first;
+        return current;
     }
 };
