@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
