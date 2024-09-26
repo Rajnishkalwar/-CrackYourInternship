@@ -29,12 +29,13 @@ public:
         }
 
         ListNode* first=head;
+        ListNode* second=prev;
         while(first!=NULL && first->next!=NULL){
-            if(first->val!=prev->val){
+            if(first->val!=second->val){
                 return false;
             }
             first=first->next;
-            prev=prev->next;
+            second=second->next;
         }  
         return true;
         
