@@ -19,15 +19,15 @@ bool calculateDivisor(vector<int>& nums, int threshold,int divisor){
         int n=nums.size();
         for(int i=0;i<n;i++){
             maxi=max(nums[i],maxi);
+            mini=min(nums[i],mini);
         }
         int low=1;
         int high=maxi;
-        int ans=-1;
         while(low<=high){
             int mid=(low+high)/2;
             
             if(calculateDivisor(nums,threshold,mid)){
-                ans=mid;
+                
                 high=mid-1;
             }
             else{
@@ -35,7 +35,7 @@ bool calculateDivisor(vector<int>& nums, int threshold,int divisor){
 
             }
         }
-        return ans;
+        return low;
           
         
     }
