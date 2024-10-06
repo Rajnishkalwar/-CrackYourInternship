@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0008-string-to-integer-atoi) |
 | [1078-remove-outermost-parentheses](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
