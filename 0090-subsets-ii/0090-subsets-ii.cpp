@@ -4,7 +4,7 @@ public:
             ans.push_back(ds);
           
           for(int i=index;i<n;i++){
-          if(i!=index && nums[i]==nums[i-1]) continue;
+          if(i>index && nums[i]==nums[i-1]) continue;
           ds.push_back(nums[i]);
           recSubset(i+1,ds,ans,nums,n);
           ds.pop_back();
