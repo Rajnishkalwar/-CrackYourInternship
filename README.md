@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0008-string-to-integer-atoi) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 | [1078-remove-outermost-parentheses](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
