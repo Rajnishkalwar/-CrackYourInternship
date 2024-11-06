@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0410-split-array-largest-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
