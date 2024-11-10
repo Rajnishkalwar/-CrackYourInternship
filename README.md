@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0008-string-to-integer-atoi) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2032-largest-odd-number-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
