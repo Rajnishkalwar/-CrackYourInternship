@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/1460-number-of-substrings-containing-all-three-characters) |
