@@ -24,7 +24,7 @@ public:
             int size = queuenode.size();
             vector<int> arr(size); // Prepare to store current level values
             
-            for (int i = 0; i < size; ++i) {
+            for (int i = 0; i < size; i++) {
                 TreeNode* current = queuenode.front();
                 queuenode.pop();
                 
