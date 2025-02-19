@@ -7,11 +7,10 @@ public:
         int maxlen=0;
         unordered_map<char,int> hashset;
         while(right<s.size()){
-            hashset[s[right]-'A']++;
-            maxfreq=max(maxfreq,hashset[s[right]-'A']);
+            hashset[s[right]]++;
+            maxfreq=max(maxfreq,hashset[s[right]]);
             if((right-left+1)-maxfreq>k){
-                hashset[s[left]-'A']--;
-                maxfreq=0;
+                hashset[s[left]]--;
                 left++;
             }
             if((right-left+1)-maxfreq<=k){
