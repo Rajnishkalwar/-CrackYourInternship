@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0075-sort-colors) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0131-palindrome-partitioning) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Rajnishkalwar/-CrackYourInternship/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
